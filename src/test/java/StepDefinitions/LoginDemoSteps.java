@@ -11,7 +11,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import java.util.concurrent.TimeUnit;
 
 public class LoginDemoSteps {
-
+/*
     WebDriver driver = null;
 
     @Given("browser is open")
@@ -46,6 +46,6 @@ public class LoginDemoSteps {
         driver.findElement(By.id("logout")).isDisplayed();
         driver.close();
         driver.quit();
-    }
+    }*/
 
 }
